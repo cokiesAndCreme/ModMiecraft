@@ -1,0 +1,17 @@
+{
+  "minecraft:plains": [
+  "chests/village_armorer",
+    "chests/simple_dungeon"
+  ],
+  "minecraft:desert": [
+    "chests/desert_pyramid",
+    "chests/temple"
+  ],
+  "minecraft:forest": [
+    "chests/woodland_mansion"
+  ],
+  "minecraft:snowy_tundra": [
+    "chests/igloo_chest"
+  ],
+  "default": []
+}
